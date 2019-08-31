@@ -1,0 +1,29 @@
+section{
+    width: 45%;
+    margin-left: 5%;
+    
+}
+div{
+    border : solid 1px black;
+    margin-top: 20px;
+
+}
+.form{
+    width: 45%;
+    margin-left:2.5%;
+    margin-right: 2.5%;
+    background-color: blueviolet;
+    text-align: center;
+}
+body{
+    display: flex;
+}
+label{
+    display: block;
+    margin-top: 0.5em;
+}
+.add{
+    position: relative;
+    left: 80%;
+    margin-top: 1em;
+}
